@@ -1,0 +1,16 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "08ae0ef2-465b-4da8-8103-f4a4ab1d7777",
+        "name": "REST API",
+        "designId": "5969ae7b-f459-4dca-b050-8daeb6db48e5",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "8bc1b5c9-29e4-4269-becb-a2e1a8de9127": {
+        "id": "bfbf1e3a-2814-473b-b641-9d3c9b6eec3b",
+        "name": "WeWeb Email",
+        "designId": "5969ae7b-f459-4dca-b050-8daeb6db48e5",
+        "pluginId": "8bc1b5c9-29e4-4269-becb-a2e1a8de9127",
+        "publicData": {}
+    }
+}

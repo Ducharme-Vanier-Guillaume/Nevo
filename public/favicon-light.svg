@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <style>
+    .n-shape { fill: #000000; }
+    @media (prefers-color-scheme: dark) {
+      .n-shape { fill: #ffffff; }
+    }
+  </style>
+  <g transform="matrix(9.0022,0,0,9.0022,36.8929,164.005)">
+    <g class="n-shape">
+      <path d="M12.95-14.22L12.95 0L9.54 0L4.50-8.85L4.50 0L1.07 0L1.07-14.22L4.50-14.22L9.53-5.37L9.53-14.22L12.95-14.22Z" />
+    </g>
+  </g>
+</svg>
